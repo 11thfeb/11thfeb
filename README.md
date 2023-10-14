@@ -6,9 +6,9 @@
 
 🌱 I'm passionate about Software & Finance, and I'm always eager to learn and explore new technologies.
 
-💡 I specialize in [Technical Skills/Expertise] and have a strong background in [Relevant Experience/Projects].
-
 📫 Let's connect and collaborate! Feel free to reach out to [me](https://11thfeb.netlify.app/) or find me on [Linkedin](https://www.linkedin.com/in/huu-anh-vo-2154781b5/)/[Twitter](https://twitter.com/11thfeb_).
+
+<!--- 💡 I specialize in [Technical Skills/Expertise] and have a strong background in [Relevant Experience/Projects]. --->
 
 <!---
 11thfeb/11thfeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
