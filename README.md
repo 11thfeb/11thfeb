@@ -8,7 +8,9 @@
 
 📫 Let's connect and collaborate! Feel free to reach out to [me](https://11thfeb.netlify.app/) or find me on [Linkedin](https://www.linkedin.com/in/huu-anh-vo-2154781b5/)/[Twitter](https://twitter.com/11thfeb_).
 
-<a href="link" style="text-align: center"><img src="https://streak-stats.demolab.com/?user=11thfeb" align="center" alt="11thfeb"></a>
+<a href="https://streak-stats.demolab.com/?user=11thfeb" style="text-align: center">
+  <img src="https://streak-stats.demolab.com/?user=11thfeb" align="center" alt="11thfeb">
+</a>
 
 <!--- 💡 I specialize in [Technical Skills/Expertise] and have a strong background in [Relevant Experience/Projects]. 
 
