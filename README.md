@@ -1,13 +1,5 @@
 👋 Hello, I'm [11thfeb](https://11thfeb.netlify.app/)
 
-🚀 I'm a Software Engineer with 5+ years of experience in Enterprise software design & development.
-
-💼 Currently, I work as a Software Engineer at Excel Technologies.
-
-🌱 I'm passionate about Software & Finance, and I'm always eager to learn and explore new technologies.
-
-📫 Let's connect and collaborate! Feel free to reach out to [me](https://11thfeb.netlify.app/) or find me on [Linkedin](https://www.linkedin.com/in/huu-anh-vo-2154781b5/)/[Twitter](https://twitter.com/11thfeb_).
-
 <a href="https://streak-stats.demolab.com/?user=11thfeb" style="text-align: center">
   <img src="https://streak-stats.demolab.com/?user=11thfeb" align="center" alt="11thfeb">
 </a>
