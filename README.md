@@ -1,8 +1,10 @@
-👋 Hello, I'm [11thfeb](https://11thfeb.netlify.app/)
+I'm [11thfeb](https://11thfeb.netlify.app/)
 
-<a href="https://streak-stats.demolab.com/?user=11thfeb" style="text-align: center">
+<!--- <a href="https://streak-stats.demolab.com/?user=11thfeb" style="text-align: center">
   <img src="https://streak-stats.demolab.com/?user=11thfeb" align="center" alt="11thfeb">
 </a>
+
+--->
 
 <!--- 💡 I specialize in [Technical Skills/Expertise] and have a strong background in [Relevant Experience/Projects]. 
 
